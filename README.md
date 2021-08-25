@@ -1,5 +1,5 @@
 # 4-Digit Display Counter
-##This project was made in [Tinkercad](https://www.tinkercad.com/things/gbmwmNch8xx-display-counter)
+## This project was made in [Tinkercad](https://www.tinkercad.com/things/gbmwmNch8xx-display-counter)
 
 ---
 
